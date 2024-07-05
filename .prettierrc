@@ -1,0 +1,4 @@
+{
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "react/jsx-curly-brace-presence": [false]
+}
